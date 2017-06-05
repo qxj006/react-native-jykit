@@ -1,6 +1,6 @@
 {
   "name": "react-native-jykit",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A set of UI components for React Native",
   "main": "index.js",
   "scripts": {

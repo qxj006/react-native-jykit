@@ -1,0 +1,19 @@
+{
+  "name": "react-native-jykit",
+  "version": "1.0.0",
+  "description": "A set of UI components for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huanxsd/react-native-jykit.git"
+  },
+  "author": "Daniel Liu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/huanxsd/react-native-jykit/issues"
+  },
+  "homepage": "https://github.com/huanxsd/react-native-jykit#readme"
+}

@@ -1,23 +1,24 @@
 {
-  "name": "react-native-jykit",
-  "version": "1.0.4",
-  "description": "A set of UI components for React Native",
-  "main": "lib/index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "dependencies": {
-    "react-native-icons": "^0.7.1",
-    "react-native-elements": "^0.12.2"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/huanxsd/react-native-jykit.git"
-  },
-  "author": "Daniel Liu",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/huanxsd/react-native-jykit/issues"
-  },
-  "homepage": "https://github.com/huanxsd/react-native-jykit#readme"
+    "name": "react-native-jykit",
+    "version": "1.0.4",
+    "description": "A set of UI components for React Native",
+    "main": "lib/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "react-native-icons": "^0.7.1",
+        "react-native-elements": "^0.12.2",
+        "react-native-swiper": "^1.5.4"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/huanxsd/react-native-jykit.git"
+    },
+    "author": "Daniel Liu",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/huanxsd/react-native-jykit/issues"
+    },
+    "homepage": "https://github.com/huanxsd/react-native-jykit#readme"
 }
